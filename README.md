@@ -1,2 +1,2 @@
 # Portrait-Chinois
-https://ramataw.github.io/Portrais-Chinois/
+https://ramataw.github.io/Portrait-Chinois/
